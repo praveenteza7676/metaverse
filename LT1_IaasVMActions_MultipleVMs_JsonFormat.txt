@@ -1,0 +1,50 @@
+
+{
+
+  "resources":
+
+  [
+
+    {
+
+      "enterpriseSystemAcronym": "ENBILL",
+
+      "applicationAcronym": "BILADCApp",
+
+      "environmentAcronym": "LT1",
+
+      "subscriptionId": subscriptionId,
+
+      "resourceGroup": "gze-biladc-lt1-rgp-001",
+
+      "vmName": "gzebiladclt1a01","gzebiladclt1a02","gzebiladclt1a03","gzebiladclt1a04","gzebiladclt1a05","gzebiladclt1a06","gzebiladclt1a07","gzebiladclt1a08","gzebiladclt1a09","gzebiladclt1a10","gzebiladclt1a11","gzebiladclt1a12","gzebiladclt1a13","gzebiladclt1a14","gzebiladclt1a15","gzebiladclt1a16","gzebiladclt1a17","gzebiladclt1a18",
+
+      "location": "East US"
+
+           
+
+            },
+
+    {
+
+      "enterpriseSystemAcronym": "ENBILL",
+
+      "applicationAcronym": "BILADCApp",
+
+      "environmentAcronym": "LT1",
+
+      "subscriptionId": subscriptionId,
+
+      "resourceGroup": "gze-bdcbat-lt1-rgp-001",
+
+      "vmName": "gzebdcbatlt1a01","gzebdcbatlt1a02","gzebdcbatlt1a03","gzebdcbatlt1a04","gzebdcbatlt1a05","gzebdcbatlt1a06","gzebdcbatlt1a07","gzebdcbatlt1a08","gzebdcbatlt1a09","gzebdcbatlt1a10","gzebdcbatlt1a11","gzebdcbatlt1a12",
+
+      "location": "East US"
+
+    }
+
+           
+
+  ]
+
+}
